@@ -64,8 +64,8 @@
 </tr>
 <tr align="center">
 <td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/106756920?v=4" width = "100%" ></td>
-<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/144714818?v=4" width = "73%" ></td>
-<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/50344711?v=4" width = "88%" ></td>
+<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/144714818?v=4" width = "95%" ></td>
+<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/50344711?v=4" width = "95%" ></td>
 <td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/96974725?v=4" width = "100%" ></td>
 </tr>
 <tr align="center">
