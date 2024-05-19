@@ -4,10 +4,10 @@
 
 <br>
 
-<img src="src/login.png">
+<img src="https://raw.githubusercontent.com/Pure-Plate/.github/main/profile/src/login.png">
 <br>
 <br>
-<img src="src/main.png">
+<img src="https://raw.githubusercontent.com/Pure-Plate/.github/main/profile/src/main.png">
 
 
 <br>
