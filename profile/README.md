@@ -1,6 +1,6 @@
 ## Pure Plate
 
-#### 📍 Features
+### 📍 Features
 
 <br>
 
@@ -18,28 +18,30 @@
 <br>
 <br>
 
-#### 📍 Stacks
+### 📍 Stacks 
 
-##### Frontend
-- HTML5
-- CSS3
-- Javascript
-- React
+<br>
 
-##### Backend
+##### ▶︎ Backend
 - Python 3.9.6
 - Django 4.2.13
 - Docker
 - AWS EC2
 - Github Action
 
-##### Database
+##### ▶︎ Frontend
+- HTML5
+- CSS3
+- Javascript
+- React
+
+##### ▶︎ Database
 - sqlite3
 
-##### UI/UX
+##### ▶︎ UI/UX
 - Figma
 
-##### Tools
+##### ▶︎ Tools
 - Github
 - Postman
 - Notion
@@ -52,7 +54,9 @@
 <br>
 <br>
 
-#### 📍 Developer
+### 📍 Developer
+
+<br>
 
 <table border=1 width="90%">
 <td align="center"; colspan=2>Backend</td>
