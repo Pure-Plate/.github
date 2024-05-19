@@ -1,12 +1,79 @@
-## Hi there 👋
+## Pure Plate
 
-<!--
+#### 📍 Features
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="./src/login.png">
+<br>
+<br>
+<img src="./src/main.png">
+
+
+<br>
+<br>
+
+****
+
+<br>
+<br>
+
+#### 📍 Stacks
+
+##### Frontend
+- HTML5
+- CSS3
+- Javascript
+- React
+
+##### Backend
+- Python 3.9.6
+- Django 4.2.13
+- Docker
+- AWS EC2
+- Github Action
+
+##### Database
+- sqlite3
+
+##### UI/UX
+- Figma
+
+##### Tools
+- Github
+- Postman
+- Notion
+
+<br>
+<br>
+
+****
+
+<br>
+<br>
+
+#### 📍 Developer
+
+<table border=1 width="90%">
+<td align="center"; colspan=2>Backend</td>
+<td align="center"; colspan=2>Frontend</td>
+</tr>
+<tr align="center">
+<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/106756920?v=4" width = "100%" height="100%"></td>
+<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/144714818?v=4" width = "73%" height="73%"></td>
+<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/50344711?v=4" width = "88%" height="88%"></td>
+<td width = "25%" align="center"><img src="https://avatars.githubusercontent.com/u/96974725?v=4" width = "100%" height="100%"></td>
+</tr>
+<tr align="center">
+<td>Saeyeon Lim</td>
+<td>Chanhaeng Lee</td>
+<td>Seungwon Jeon</td>
+<td>Jiwoo Choi</td>
+</tr>
+<tr align="center">
+<td><a href="https://github.com/saeyeonn">@saeyeonn</td>
+<td><a href="https://github.com/">@ChanHHaeng</td>
+<td><a href="https://github.com/saeyeonn">@ppnavillera</td>
+<td><a href="https://github.com/">@elaus00</td>
+</tr>
+
