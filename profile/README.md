@@ -4,10 +4,10 @@
 
 <br>
 
-<img src="./src/login.png">
+<img src="src/login.png">
 <br>
 <br>
-<img src="./src/main.png">
+<img src="src/main.png">
 
 
 <br>
